@@ -8,8 +8,8 @@ Der Square wird sich dann automatisch hin und her bewegen.
  */
 public class Movement : MonoBehaviour
 {
-    public float movementSpeed =15;
-    public float boundary = 12;
+    public float movementSpeed =15f;
+    public float boundary = 12f;
     public bool isRight;
 
 
